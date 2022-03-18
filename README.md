@@ -5,5 +5,6 @@
 https://syu99.github.io/TP1-Js-MouseMove/
 
 
-![image](https://user-images.githubusercontent.com/45003738/158996536-232cc236-ecd8-4bd9-b79c-b2b79782dd48.png)
+![image](https://user-images.githubusercontent.com/45003738/158996898-275ae2a0-b81a-478c-abd2-b52d64e6259c.png)
+
 
